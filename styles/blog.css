@@ -8,3 +8,34 @@ p{
     font-size: larger;
     font-weight: 800;
 }
+h3{
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline rgb(36, 128, 0);
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+h2{
+   font-size: 40px; 
+   text-align: center;
+   text-shadow: 1px 2px 3px rgb(141, 58, 10);
+   text-decoration: underline greenyellow;
+   
+}
+*{
+     margin: 20px; 
+     
+}
+div{
+    padding: 20px;
+    border: 10px solid tomato;
+    box-shadow: 10px 20px 40px blueviolet;
+    
+    
+}
+.bold{
+    background-image: url(../download\ \(22\).jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
